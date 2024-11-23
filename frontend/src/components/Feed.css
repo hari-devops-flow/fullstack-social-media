@@ -1,0 +1,16 @@
+.feed {
+    background-color: #fff;
+    padding: 1rem;
+    margin: 1rem 0;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.feed h2 {
+    color: #4CAF50;
+    margin-bottom: 0.5rem;
+}
+
+.feed p {
+    color: #333;
+}
